@@ -23,3 +23,5 @@ The implementation of this tool uses Python’s os module to traverse directorie
 One of the key advantages of this File Integrity Checker is its simplicity and efficiency. It does not require any external dependencies beyond Python’s standard libraries, making it lightweight and easy to deploy. Additionally, it can be extended with advanced features such as real-time monitoring using file system watchers, logging mechanisms for audit trails, email notifications for alerts, and graphical user interfaces for better usability.
 
 In conclusion, the File Integrity Checker is a practical and effective tool for ensuring data security and system reliability. By leveraging cryptographic hashing techniques, it provides a reliable way to detect unauthorized changes in files. This project demonstrates fundamental concepts of cybersecurity, file handling, and automation, making it highly valuable for learning and real-world applications.
+*output
+![Image](https://github.com/user-attachments/assets/1a2f66de-ca3c-4159-b2dc-ad8e7b0a8326)
